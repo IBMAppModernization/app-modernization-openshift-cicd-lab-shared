@@ -7,7 +7,7 @@ site_author: IBM Developer
 repo_name: openshift-cicd
 repo_url: https://github.com/ibmappmodernization/app-modernization-openshift-cicd-lab-shared
 edit_uri: edit/master/docs
-docs_dir: workshop
+docs_dir: docs
 
 # Navigation
 nav:
@@ -31,7 +31,7 @@ theme:
     - navigation.instant
   palette:
     scheme: default
-    primary: blue
+    primary: black
     accent: blue
 
 # Plugins
